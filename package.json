@@ -24,7 +24,6 @@
     "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
-    "@eslint/eslintrc": "^3",
-    "homepage": "https://emillyhorta.github.io"
+    "@eslint/eslintrc": "^3"
   }
 }
