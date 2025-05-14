@@ -1,8 +1,8 @@
 import Header from "./Header";
 import About from "./About";
-import Skills from "./skills";
-import Projects from "./projects";
-import Footer from "./footer";
+import Skills from "./Skills";
+import Projects from "./Projects";
+import Footer from "./Footer";
 
 export default function Home() {
   return (
