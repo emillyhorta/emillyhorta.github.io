@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Hero from "./hero";
+import Hero from "./Hero";
 
 export default function Header() {
   return (
