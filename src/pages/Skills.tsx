@@ -29,7 +29,7 @@ export default function Skills() {
 
           <div className="flex flex-col items-center">
             <div className="text-xl font-bold text-white sm:text-2xl md:text-3xl">
-              Tailwind
+              UI designer
             </div>
           </div>
 
@@ -47,6 +47,19 @@ export default function Skills() {
               Git e Github
             </div>
           </div>
+          
+        <div className="flex flex-col items-center">
+            <div className="text-xl font-bold text-white sm:text-2xl md:text-3xl">
+              Design System
+            </div>
+          </div>
+
+          <div className="flex flex-col items-center">
+            <div className="text-xl font-bold text-white sm:text-2xl md:text-3xl">
+              Design Tokens
+            </div>
+          </div>
+          
         </div>
       </div>
     </div>
