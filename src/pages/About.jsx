@@ -9,8 +9,7 @@ export default function About() {
 
           <p className="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">
             Graduada em Sistemas de Informação (Mauricio de Nassau- PI), Técnica
-            em Informática (IFPI - Campus Parnaiba).Atualmente sou
-            Desenvolvedora front-end.Trabalhei por quase 4 anos com criação de
+            em Informática (IFPI - Campus Parnaiba).Faço pós graduação em empreendedorismo e Inovação, e de front-end Enginner. Atualmente trabalho como UX/UI designer como freelance, mas já trabalhei por quase 4 anos com criação de
             sites para parlamentares, e utilizava tecnologias como
             Gatsby,Wordpress, e Next.js além de atuar também como Freelancer
             criando soluções inovadoras e fazendo Interfaces para sistemas e
